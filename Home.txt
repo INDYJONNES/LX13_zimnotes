@@ -1,0 +1,77 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-12-02T22:54:59+02:00
+
+====== Home ======
+Created Thursday 02 December 2021
+
+==== HOSTS entries ====
+
+192.168.1.30	c7lab1.indiee.com	c7lab1
+192.168.1.44	indiee-pi4top
+192.168.1.45	indiee-pi4top2
+192.168.1.46	indiee-pi4top3
+192.168.1.47	indiee-pi4top4
+192.168.1.43	confluent
+192.168.1.58	admin-hp-elitebook indiee-precision5530
+# 192.168.1.76	pop-os-y540
+192.168.1.66	indiee-t580
+
+# 192.168.1.43    pop-os-y540
+192.168.1.12    user-XPS-13-7390
+192.168.1.73    rtx-pop-os
+192.168.1.70    cassandra
+192.168.1.71    kerbeross.indiee.com	kerbeross
+192.168.1.72    centos7ssl.indiee.com	centos7ssl
+
+192.168.1.74	broker1.indiee.com	broker1
+192.168.1.75	broker2.indiee.com	broker2
+192.168.1.78	broker3.indiee.com	broker3
+192.168.1.79	kclient.indiee.com	kclient
+192.168.1.82	ksql.indiee.com	ksql
+
+192.168.1.84	kerberos2.indiee2.com	kerberos2
+192.168.1.85	ssl2.indiee2.com	ssl2
+192.168.1.86	ssl2cl.indiee2.com	ssl2cl
+
+192.168.1.92	indiee-xps157590
+
+165.233.59.225 cdsw.bcx.com
+165.233.59.225 *.cdsw.bcx.com
+165.233.59.225 livelog.cdsw.bcx.com
+
+192.168.56.102 centos77
+
+
+41.148.220.75 hubrl-cov-cm1.telkom.co.za hubrl-cov-cm1
+41.148.220.76 hubrl-cov-cm2.telkom.co.za hubrl-cov-cm2
+41.148.220.77 hubrl-cov-cd1.telkom.co.za hubrl-cov-cd1 kafka
+41.148.220.78 hubrl-cov-cd2.telkom.co.za hubrl-cov-cd2 kafka
+41.148.220.79 hubrl-cov-cd3.telkom.co.za hubrl-cov-cd3 kafka
+41.148.220.80 hubrl-cov-cd4.telkom.co.za hubrl-cov-cd4
+41.148.220.81 hubrl-cov-cd5.telkom.co.za hubrl-cov-cd5
+41.148.220.82 hubrl-cov-cd6.telkom.co.za hubrl-cov-cd6
+41.148.220.83 hubrl-cov-cd7.telkom.co.za hubrl-cov-cd7
+41.148.220.84 hubrl-cov-cd8.telkom.co.za hubrl-cov-cd8
+41.148.220.85 hubrl-cov-cd9.telkom.co.za hubrl-cov-cd9
+41.148.220.86 hubrl-cov-cd10.telkom.co.za hubrl-cov-cd10
+
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+
+165.233.59.225  nocbsmappen1    nocbsmappen1.bcxservices.com
+165.233.59.226  nocbsmappkafka1 nocbsmappkafka1.bcxservices.com
+165.233.59.227  nocbsmappdn1    nocbsmappdn1.bcxservices.com
+165.233.59.228  nocbsmappdn2    nocbsmappdn2.bcxservices.com
+165.233.59.229  nocbsmappdn3    nocbsmappdn3.bcxservices.com
+165.233.59.230  nocbsmappmn1    nocbsmappmn1.bcxservices.com
+165.233.59.231  nocbsmappmn2    nocbsmappmn2.bcxservices.com
+165.233.59.232  nocbsmappmn3    nocbsmappmn3.bcxservices.com
+165.233.59.233  nocbsmappkafka2 nocbsmappkafka2.bcxservices.com
+165.233.59.234  nocbsmappcsmd1  nocbsmappcsmd1.bcxservices.com
+
